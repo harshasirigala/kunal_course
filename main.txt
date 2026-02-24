@@ -1,0 +1,4 @@
+This is my first vim file.
+Learning DevOps step by step
+:wq
+
